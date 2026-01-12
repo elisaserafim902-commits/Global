@@ -1,0 +1,13 @@
+{
+  "name": "VitaCare Global",
+  "short_name": "VitaCare",
+  "description": "Infraestrutura Digital de Cuidado Humano. Apoio humanitário, proteção ativa e conexão ética para idosos e suas redes de afeto.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "theme_color": "#0B3C5D",
+  "background_color": "#F2F4F6",
+  "display": "standalone",
+  "orientation": "portrait"
+}
